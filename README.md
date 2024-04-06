@@ -1,5 +1,4 @@
-# NSE-50-Stock-Analysis
-🚀 NSE 50 Stock Analysis: Decoding the Market Symphony
+# 🚀 NSE 50 Stock Analysis: Decoding the Market Symphony
 
 Abstract
 
