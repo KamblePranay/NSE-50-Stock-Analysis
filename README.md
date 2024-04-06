@@ -2,9 +2,10 @@
 🚀 NSE 50 Stock Analysis: Decoding the Market Symphony
 
 Abstract
+
 The NSE 50 Stock Analysis project is our voyage into the heart of financial data, where numbers dance like celestial bodies in a cosmic ballet. We unravel the enigma of India’s top companies, their stocks, and the pulse of the NIFTY-50 index. Brace yourself for a journey that transcends mere analysis—it’s a symphony of insights, a crescendo of knowledge.
 
-Introduction
+Introduction :-
 
 The National Stock Exchange (NSE), India’s financial coliseum, hosts the grand spectacle of the NIFTY-50. These 50 stocks, like virtuoso musicians, harmonize to create the market’s opus. Our mission? To decipher their melodies, unravel their rhythms, and compose a sonnet of understanding.
 
