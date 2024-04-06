@@ -7,6 +7,7 @@ Introduction
 The National Stock Exchange (NSE), India’s financial coliseum, hosts the grand spectacle of the NIFTY-50. These 50 stocks, like virtuoso musicians, harmonize to create the market’s opus. Our mission? To decipher their melodies, unravel their rhythms, and compose a sonnet of understanding.
 
 Key Objectives
+
 Descriptive Analysis:
 We explore the dataset to understand the average opening price of the NIFTY-50 stocks. This provides valuable information about the initial trading behavior of these companies.
 By analyzing historical data, we aim to uncover patterns, trends, and variations in opening prices.
