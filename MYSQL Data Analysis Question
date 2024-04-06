@@ -1,0 +1,24 @@
+Abstract
+
+The NSE 50 Stock Analysis project is our voyage into the heart of financial data, where numbers dance like celestial bodies in a cosmic ballet. We unravel the 
+enigma of India’s top companies, their stocks, and the pulse of the NIFTY-50 index. Brace yourself for a journey that transcends mere analysis—it’s a symphony of
+insights, a crescendo of knowledge.
+
+Introduction :-
+The National Stock Exchange (NSE), India’s financial coliseum, hosts the grand spectacle of the NIFTY-50. These 50 stocks, like virtuoso musicians, 
+harmonize to create the market’s opus. Our mission? To decipher their melodies, unravel their rhythms, and compose a sonnet of understanding.
+
+Key Objectives:-
+Descriptive Analysis: We explore the dataset to understand the average opening price of the NIFTY-50 stocks. This provides valuable information about the 
+initial trading behavior of these companies. By analyzing historical data, we aim to uncover patterns, trends, and variations in opening prices.                                                                           
+
+                                                                                 Descriptive Analysis: 
+ We explore the dataset to understand the average opening price of the NIFTY-50 stocks. This provides valuable information about the initial trading behavior of these companies. By analyzing historical data,
+ we aim to uncover patterns, trends, and variations in opening prices.
+
+1.What is the average opening price (Open) for the Nifty TOP 50 stocks?
+
+2.What is the highest and lowest closing price (LTP) observed in the dataset?
+
+3.How volatile are the stock prices? Calculate the standard deviation of the High and Low prices.
+
